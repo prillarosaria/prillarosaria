@@ -5,6 +5,7 @@ My name is **Christina Prilla Rosaria Ardyanti**. I am a final student at the Un
 
 ### About Me 👧
 - 🌳 Interested and currently studying **Data Science** and **Machine Learning**
+- 🙌 Passionate, initiative, and adaptable person
 - 🧠 Skills : 
   - Python
   - SQL
