@@ -19,13 +19,11 @@ This repository contains all my projects related to Data Science or Machine Lear
 👉👉[**Click Here**](https://github.com/prillarosaria/portfolio)👈👈
 
 ### Connect with Me 📱
-<a href="https://www.instagram.com/prillarosardyanti/">
-  <img align="left" alt="Prilla's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://www.linkedin.com/in/prillarosaria/">
-  <img align="left" alt="Prilla's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<p align="left">
+
+[![YouTube](icons/youtube.png)](https://youtube.com/user/hussainweb)
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/hussainweb/)
+[![Instagram](icons/instagram.png)](https://www.instagram.com/hussain.web/)
+
 
 <br>
 
